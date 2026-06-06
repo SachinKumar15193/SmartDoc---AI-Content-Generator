@@ -1,6 +1,6 @@
 # SmartDoc - AI Content Generator Website
 
-> SuprMentr Bootcamp & Internship Program 2026 | Project #73 <br>
+> SuprMentr Bootcamp & Internship Program 2026  <br>
 > **Team:** 
 > - **Ronit Bongale:** AI Architect (Full-Stack Backend)
 > - **Sachin Kumar:** Backend Developer (Systems & Database)
