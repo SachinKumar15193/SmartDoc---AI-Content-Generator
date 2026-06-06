@@ -2,7 +2,7 @@
 
 > SuprMentr Bootcamp & Internship Program 2026 | Project #73 <br>
 > **Team:** 
-> - **Ronit Bongale:** Team Lead & AI Architect (Full-Stack Backend)
+> - **Ronit Bongale:** AI Architect (Full-Stack Backend)
 > - **Sachin Kumar:** Backend Developer (Systems & Database)
 > - **Subhash MP:** Frontend & UX Specialist (Interactive UI & Analytics)
 
